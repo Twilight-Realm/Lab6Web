@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lab6Web/static/css/main.6eb3b48f.css",
+    "main.js": "/Lab6Web/static/js/main.cf9fd20e.js",
+    "static/js/453.68d17326.chunk.js": "/Lab6Web/static/js/453.68d17326.chunk.js",
+    "index.html": "/Lab6Web/index.html",
+    "main.6eb3b48f.css.map": "/Lab6Web/static/css/main.6eb3b48f.css.map",
+    "main.cf9fd20e.js.map": "/Lab6Web/static/js/main.cf9fd20e.js.map",
+    "453.68d17326.chunk.js.map": "/Lab6Web/static/js/453.68d17326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb3b48f.css",
+    "static/js/main.cf9fd20e.js"
+  ]
+}
